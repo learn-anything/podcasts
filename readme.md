@@ -1,4 +1,16 @@
-# Free podcasts all can learn from  🎙️
+<h1 align="center"> Free podcasts all can learn from  🎙️ </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/podcasts/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting podcasts one can listen to learn new things and discover new insights. 🔭
 
@@ -9,7 +21,8 @@ Pull requests are welcome. Thank you. 💙
 - [awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [a map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
-# Podcasts
+<h1 align="center"> Podcasts </h1>
+
 
 # history
 
