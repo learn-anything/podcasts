@@ -1,4 +1,4 @@
-# Free podcasts all can learn from [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Free podcasts all can learn from 🎙 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 ## Description 📕
 Here is a curated list of all the interesting podcasts one can listen to learn new things and discover new insights. 
 
