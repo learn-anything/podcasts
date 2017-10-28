@@ -18,37 +18,37 @@ Pull requests are welcome. Thank you. 💙
 - [stuff you missed in history class 🎙️](http://www.missedinhistory.com/)
 - [history of the world in 100 objects 🎙️](http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads)
 
-# Cryptocurrencies
+### Cryptocurrencies
 - [cryptoverse 🎙️](https://player.fm/series/the-cryptoverse)
 
-# Technology
+### Technology
 - [ctrl-walt-detete 🎙️](https://www.theverge.com/ctrl-walt-delete)
 
-# Machine Learning
+### Machine Learning
 - [talking machines 🎙️](http://www.thetalkingmachines.com/)
 - [machine learning guide 🎙️](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [linear digressions 🎙️](http://lineardigressions.com/)
 
-# Startups
+### Startups
 - [the pitch 🎙️](https://thepitch.fm/)
 - [product people 🎙️](http://www.productpeople.tv/)
 - [the freelancer 🎙️](https://pjrvs.com/podcast/)
 - [startup 🎙️](https://gimletmedia.com/startup/)
 
-# Mac
+### Mac
 - [mac power users 🎙️](https://www.relay.fm/mpu)
 
-# Functional programming
+### Functional programming
 - [hansel minutes 🎙️](https://hanselminutes.com/)
 
-# News
+### News
 - [the daily 🎙️](https://www.nytimes.com/podcasts/the-daily)
   daily show covering what’s most important in the world on that day
 
-# Security
+### Security
 - [security now 🎙️](https://twit.tv/shows/security-now)
 
-# Politics
+### Politics
 - [NPR politics podcast 🎙️](http://www.npr.org/podcasts/510310/npr-politics-podcast)
   covers the political headlines of the US
 - [FiveThirtyEight 🎙️](https://fivethirtyeight.com/tag/politics-podcast/)
@@ -57,21 +57,21 @@ Pull requests are welcome. Thank you. 💙
   more serious show about american foreign policy
 - [civics 101 🎙️](http://www.npr.org/podcasts/512508710/civics-101)
 
-# Math
+### Math
 - [relatively prime 🎙️](https://briankoberlein.com/podcasts/)
 
-# Everything
+### Everything
 - [hello internet 🎙️](http://www.hellointernet.fm)
 - [partially examined life 🎙️](https://partiallyexaminedlife.com/)
 - [Tim Ferriss show  🎙️](http://tim.blog/podcast/)
 
-# Universe
+### Universe
 - [one universe at a time 🎙️](https://briankoberlein.com/podcasts/)
 
-# Economics
+### Economics
 - [planet money 🎙️](http://www.npr.org/sections/money/)
 
-# Programming
+### Programming
 - [complete developer 🎙️](http://completedeveloperpodcast.com/)
 - [software engineering daily 🎙️](https://softwareengineeringdaily.com/)
 - [changelog 🎙️](https://changelog.com/)
