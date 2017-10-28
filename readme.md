@@ -1,152 +1,78 @@
-<h1 align="center"> Free podcasts all can learn from  🎙️ </h1>
+# Free podcasts all can learn from 🎙️ [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-<div align="center">
-<a href="https://www.patreon.com/learnanything">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/learn-anything/podcasts/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
-
-<h1 align="center"> Description 📕</h1>
-
-
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting podcasts one can listen to learn new things and discover new insights. 🔭
+## Description 📕
+Here is a curated list of all the interesting podcasts one can listen to learn new things and discover new insights. 🔭
 
 Pull requests are welcome. Thank you. 💙
 
-#### Related websites / repositories 
-
+### Related websites / repositories 
 - [awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [a map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
-<h1 align="center"> Podcasts </h1>
+## Podcasts
 
-
-# history
-
-
+### History
 - [undone 🎙️](https://gimletmedia.com/undone/)
-  one season show about less known historical happenings
-
+  - one season show about less known historical happenings
 - [Dan Carlin’s hardcore history 🎙️](http://www.dancarlin.com/hardcore-history-series/)
-
 - [stuff you missed in history class 🎙️](http://www.missedinhistory.com/)
-
 - [history of the world in 100 objects 🎙️](http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads)
 
-
-# cryptocurrencies
-
-
+# Cryptocurrencies
 - [cryptoverse 🎙️](https://player.fm/series/the-cryptoverse)
 
-
-# technology
-
-
+# Technology
 - [ctrl-walt-detete 🎙️](https://www.theverge.com/ctrl-walt-delete)
 
-
-# machine learning
-
-
+# Machine Learning
 - [talking machines 🎙️](http://www.thetalkingmachines.com/)
-
 - [machine learning guide 🎙️](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
-
 - [linear digressions 🎙️](http://lineardigressions.com/)
 
-
-# startups
-
-
+# Startups
 - [the pitch 🎙️](https://thepitch.fm/)
-
 - [product people 🎙️](http://www.productpeople.tv/)
-
 - [the freelancer 🎙️](https://pjrvs.com/podcast/)
-
 - [startup 🎙️](https://gimletmedia.com/startup/)
 
-
-# mac
-
-
+# Mac
 - [mac power users 🎙️](https://www.relay.fm/mpu)
 
-
-# functional programming
-
-
+# Functional programming
 - [hansel minutes 🎙️](https://hanselminutes.com/)
 
-
-# news
-
-
+# News
 - [the daily 🎙️](https://www.nytimes.com/podcasts/the-daily)
   daily show covering what’s most important in the world on that day
 
-
-# security
-
-
+# Security
 - [security now 🎙️](https://twit.tv/shows/security-now)
 
-
-# politics
-
-
+# Politics
 - [NPR politics podcast 🎙️](http://www.npr.org/podcasts/510310/npr-politics-podcast)
   covers the political headlines of the US
-
 - [FiveThirtyEight 🎙️](https://fivethirtyeight.com/tag/politics-podcast/)
   mostly news about politics , but from a more data driven approach
-
 - [pod save the world 🎙️](https://art19.com/shows/pod-save-the-world)
   more serious show about american foreign policy
-
 - [civics 101 🎙️](http://www.npr.org/podcasts/512508710/civics-101)
 
-
-# math
-
-
+# Math
 - [relatively prime 🎙️](https://briankoberlein.com/podcasts/)
 
-
-# everything
-
-
+# Everything
 - [hello internet 🎙️](http://www.hellointernet.fm)
-
 - [partially examined life 🎙️](https://partiallyexaminedlife.com/)
-
 - [Tim Ferriss show  🎙️](http://tim.blog/podcast/)
 
-
-# universe
-
-
+# Universe
 - [one universe at a time 🎙️](https://briankoberlein.com/podcasts/)
 
-
-# economics
-
-
+# Economics
 - [planet money 🎙️](http://www.npr.org/sections/money/)
 
-
-# programming
-
-
+# Programming
 - [complete developer 🎙️](http://completedeveloperpodcast.com/)
-
 - [software engineering daily 🎙️](https://softwareengineeringdaily.com/)
-
 - [changelog 🎙️](https://changelog.com/)
-
 - .[NET rocks 🎙️](https://www.dotnetrocks.com/)
-
