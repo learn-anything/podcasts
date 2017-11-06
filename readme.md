@@ -1,15 +1,14 @@
-# Free podcasts all can learn from 🎙 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting podcasts one can listen to learn new things and discover new insights. 
+# Interesting Podcasts [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting podcasts.
 
-### Related websites / repositories 
-- [awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
-- [a map of all podcasts](http://www.muffin.works/podcastuniverse/)
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
+- [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+- [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
 ## Podcasts
-
 ### History
 - [undone️](https://gimletmedia.com/undone/)
   - one season show about less known historical happenings
@@ -75,3 +74,6 @@ Pull requests are welcome. Thank you. 💙
 - [software engineering daily️](https://softwareengineeringdaily.com/)
 - [changelog️](https://changelog.com/)
 - .[NET rocks️](https://www.dotnetrocks.com/)
+
+## Contribute 
+If you found a podcast that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
