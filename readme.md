@@ -2,70 +2,65 @@
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## History
-- [undone️](https://gimletmedia.com/undone/)
-  - one season show about less known historical happenings
+- [Undone️](https://gimletmedia.com/undone/) - One season show about less known historical happenings.
 - [Dan Carlin’s hardcore history️](http://www.dancarlin.com/hardcore-history-series/)
-- [stuff you missed in history class️](http://www.missedinhistory.com/)
-- [history of the world in 100 objects️](http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads)
+- [Stuff you missed in history class️](http://www.missedinhistory.com/)
+- [History of the world in 100 objects️](http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads)
 
 ## Cryptocurrencies
-- [cryptoverse️](https://player.fm/series/the-cryptoverse)
+- [Cryptoverse️](https://player.fm/series/the-cryptoverse)
 
 ## Technology
-- [ctrl-walt-detete️](https://www.theverge.com/ctrl-walt-delete)
+- [Ctrl-walt-detete️](https://www.theverge.com/ctrl-walt-delete)
 
 ## Machine Learning
-- [talking machines️](http://www.thetalkingmachines.com/)
-- [machine learning guide️](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
-- [linear digressions️](http://lineardigressions.com/)
+- [Talking machines️](http://www.thetalkingmachines.com/)
+- [Machine learning guide️](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
+- [Linear digressions️](http://lineardigressions.com/)
 
 ## Startups
 - [The pitch️](https://thepitch.fm/)
-- [product people️](http://www.productpeople.tv/)
-- [the freelancer️](https://pjrvs.com/podcast/)
-- [startup️](https://gimletmedia.com/startup/)
+- [Product people️](http://www.productpeople.tv/)
+- [The freelancer️](https://pjrvs.com/podcast/)
+- [Startup️](https://gimletmedia.com/startup/)
 
 ## Mac
-- [mac power users️](https://www.relay.fm/mpu)
+- [Mac power users️](https://www.relay.fm/mpu)
 
 ## Functional programming
-- [hansel minutes️](https://hanselminutes.com/)
+- [Hansel minutes️](https://hanselminutes.com/)
 
 ## News
-- [the daily️](https://www.nytimes.com/podcasts/the-daily)
-  daily show covering what’s most important in the world on that day
-
+- [The daily️](https://www.nytimes.com/podcasts/the-daily) - Daily show covering what’s most important in the world on that day.
+  
 ## Security
-- [security now️](https://twit.tv/shows/security-now)
+- [Security now️](https://twit.tv/shows/security-now)
 
 ## Politics
-- [NPR politics podcast️](http://www.npr.org/podcasts/510310/npr-politics-podcast)
-  covers the political headlines of the US
-- [FiveThirtyEight️](https://fivethirtyeight.com/tag/politics-podcast/)
-  mostly news about politics , but from a more data driven approach
-- [pod save the world️](https://art19.com/shows/pod-save-the-world)
-  more serious show about american foreign policy
-- [civics 101️](http://www.npr.org/podcasts/512508710/civics-101)
+- [NPR politics podcast️](http://www.npr.org/podcasts/510310/npr-politics-podcast) - Covers the political headlines of the US.
+- [FiveThirtyEight️](https://fivethirtyeight.com/tag/politics-podcast/) - Mostly news about politics , but from a more data driven approach.
+- [Pod save the world️](https://art19.com/shows/pod-save-the-world) - More serious show about american foreign policy.
+- [Civics 101️](http://www.npr.org/podcasts/512508710/civics-101)
 
 ## Math
-- [relatively prime️](https://briankoberlein.com/podcasts/)
+- [Relatively prime️](https://briankoberlein.com/podcasts/)
 
 ## Everything
-- [hello internet️](http://www.hellointernet.fm)
-- [partially examined life️](https://partiallyexaminedlife.com/)
-- [Tim Ferriss show ️](http://tim.blog/podcast/)
+- [Hello Internet️](http://www.hellointernet.fm)
+- [Partially examined life️](https://partiallyexaminedlife.com/)
+- [Tim Ferriss show](http://tim.blog/podcast/)
 
 ## Universe
-- [one universe at a time️](https://briankoberlein.com/podcasts/)
+- [One universe at a time️](https://briankoberlein.com/podcasts/)
 
 ## Economics
-- [planet money️](http://www.npr.org/sections/money/)
+- [Planet money️](http://www.npr.org/sections/money/)
 
 ## Programming
-- [complete developer️](http://completedeveloperpodcast.com/)
-- [software engineering daily️](https://softwareengineeringdaily.com/)
-- [changelog️](https://changelog.com/)
-- .[NET rocks️](https://www.dotnetrocks.com/)
+- [Complete developer️](http://completedeveloperpodcast.com/)
+- [Software engineering daily️](https://softwareengineeringdaily.com/)
+- [Changelog](https://changelog.com/)
+- [.NET rocks](https://www.dotnetrocks.com/)
 
 ## Related
 - [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
