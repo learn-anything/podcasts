@@ -24,6 +24,9 @@
 - [The freelancer](https://pjrvs.com/podcast/)
 - [Startup](https://gimletmedia.com/startup/)
 
+## React
+- [The React Podcast](https://wwTw.spreaker.com/show/the-react-podcast)
+
 ## Mac
 - [Mac power users](https://www.relay.fm/mpu)
 
