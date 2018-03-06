@@ -9,6 +9,11 @@
 
 ## Cryptocurrencies
 - [Cryptoverse](https://player.fm/series/the-cryptoverse)
+- [Blockchain Insider](http://bi.11fs.com/)
+- [Epicenter](https://epicenter.tv/)
+- [Crypto Voices](https://cryptovoices.com/)
+- [Unchained](http://unchainedpodcast.co/)
+- [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
 
 ## Technology
 - [Ctrl-walt-detete](https://www.theverge.com/ctrl-walt-delete)
