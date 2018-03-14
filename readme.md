@@ -71,7 +71,7 @@
 - [.NET rocks](https://www.dotnetrocks.com/)
 
 ## Related
-- [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+- [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
 - [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
 ## Contributing
