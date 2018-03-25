@@ -72,6 +72,7 @@
 - [.NET rocks](https://www.dotnetrocks.com/)
 
 ## Related
+- [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
 - [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
 - [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
