@@ -54,6 +54,9 @@
 ## Math
 - [Relatively prime](https://briankoberlein.com/podcasts/)
 
+## Mindset
+- [Hurry Slowly](http://hurryslowly.co/)
+
 ## Everything
 - [Hello Internet](http://www.hellointernet.fm)
 - [Partially examined life](https://partiallyexaminedlife.com/)
