@@ -33,7 +33,7 @@
 - [The React Podcast](https://wwTw.spreaker.com/show/the-react-podcast)
 
 ## Apple
-- [Stack Trace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
+- [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
 - [Mac power users](https://www.relay.fm/mpu)
 
 ## Functional programming
