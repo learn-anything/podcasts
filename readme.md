@@ -74,6 +74,9 @@
 - [Changelog](https://changelog.com/)
 - [.NET rocks](https://www.dotnetrocks.com/)
 
+## Other
+- [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
+
 ## Related
 - [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
 - [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
