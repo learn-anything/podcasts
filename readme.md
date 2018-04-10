@@ -74,6 +74,9 @@
 - [Changelog](https://changelog.com/)
 - [.NET rocks](https://www.dotnetrocks.com/)
 
+## Swift
+- [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
+
 ## Other
 - [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
 
