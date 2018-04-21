@@ -22,15 +22,23 @@
 - [Talking machines](http://www.thetalkingmachines.com/)
 - [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [Linear digressions](http://lineardigressions.com/)
+- [Practical AI](https://changelog.com/practicalai)
 
 ## Startups
 - [The pitch](https://thepitch.fm/)
 - [Product people](http://www.productpeople.tv/)
 - [The freelancer](https://pjrvs.com/podcast/)
 - [Startup](https://gimletmedia.com/startup/)
+- [Founders Talk](https://changelog.com/founderstalk)
+
+## JavaScript
+- [JS Party](https://changelog.com/jsparty)
 
 ## React
-- [The React Podcast](https://wwTw.spreaker.com/show/the-react-podcast)
+- [The React Podcast](https://changelog.com/reactpodcast)
+
+## Go
+- [Go Time](https://changelog.com/gotime)
 
 ## Apple
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
