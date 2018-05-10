@@ -87,6 +87,7 @@
 
 ## Other
 - [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
+- [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
 
 ## Related
 - [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
