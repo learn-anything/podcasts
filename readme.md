@@ -23,6 +23,9 @@
 - [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [Linear digressions](http://lineardigressions.com/)
 - [Practical AI](https://changelog.com/practicalai)
+- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Linear Digressions](http://lineardigressions.com/)
+- [Data Skeptic](https://dataskeptic.com/)
 
 ## Startups
 - [The pitch](https://thepitch.fm/)
