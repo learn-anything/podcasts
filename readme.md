@@ -16,7 +16,7 @@
 - [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
 
 ## Technology
-- [Ctrl-walt-detete](https://www.theverge.com/ctrl-walt-delete)
+- [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
 
 ## Machine Learning
 - [Talking machines](http://www.thetalkingmachines.com/)
