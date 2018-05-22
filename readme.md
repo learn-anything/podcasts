@@ -34,14 +34,17 @@
 - [Startup](https://gimletmedia.com/startup/)
 - [Founders Talk](https://changelog.com/founderstalk)
 
+## Go
+- [Go Time](https://changelog.com/gotime)
+
+## Python
+- [Talk Python To Me](https://talkpython.fm/)
+
 ## JavaScript
 - [JS Party](https://changelog.com/jsparty)
 
 ## React
 - [The React Podcast](https://changelog.com/reactpodcast)
-
-## Go
-- [Go Time](https://changelog.com/gotime)
 
 ## Apple
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
