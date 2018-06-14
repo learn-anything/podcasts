@@ -92,7 +92,7 @@
 - [.NET rocks](https://www.dotnetrocks.com/)
 - [Programming Throwdown](https://www.programmingthrowdown.com)
 - [Hanselminutes](http://hanselminutes.com/)
-- [FLOSS Weekly] (http://twit.tv/show/floss-weekly)
+- [FLOSS Weekly](http://twit.tv/show/floss-weekly)
 
 ## Swift
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
