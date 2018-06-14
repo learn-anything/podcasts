@@ -46,6 +46,9 @@
 ## React
 - [The React Podcast](https://changelog.com/reactpodcast)
 
+## Java
+- [Java Posse](http://javaposse.com/)
+
 ## Apple
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
 - [Mac power users](https://www.relay.fm/mpu)
@@ -87,6 +90,9 @@
 - [Software engineering daily](https://softwareengineeringdaily.com/)
 - [Changelog](https://changelog.com/)
 - [.NET rocks](https://www.dotnetrocks.com/)
+- [Programming Throwdown](https://www.programmingthrowdown.com)
+- [Hanselminutes](http://hanselminutes.com/)
+- [FLOSS Weekly] (http://twit.tv/show/floss-weekly)
 
 ## Swift
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
