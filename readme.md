@@ -92,6 +92,7 @@
 - [.NET rocks](https://www.dotnetrocks.com/)
 - [Programming Throwdown](https://www.programmingthrowdown.com)
 - [Hanselminutes](http://hanselminutes.com/)
+- [All Things Git](https://www.allthingsgit.com/)
 - [FLOSS Weekly](http://twit.tv/show/floss-weekly)
 
 ## Swift
