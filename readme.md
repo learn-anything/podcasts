@@ -1,6 +1,10 @@
 # Awesome Podcasts [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
+## Technology
+- [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
+- [Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
+
 ## History
 - [Undone](https://gimletmedia.com/undone/) - One season show about less known historical happenings.
 - [Dan Carlin’s hardcore history](http://www.dancarlin.com/hardcore-history-series/)
@@ -14,9 +18,6 @@
 - [Crypto Voices](https://cryptovoices.com/)
 - [Unchained](http://unchainedpodcast.co/)
 - [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
-
-## Technology
-- [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
 
 ## Machine Learning
 - [Talking machines](http://www.thetalkingmachines.com/)
