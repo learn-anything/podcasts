@@ -1,119 +1,171 @@
-# Awesome Podcasts [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
+# Podcasts
 
-## Technology
-- [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
-- [Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 
-## History
-- [Undone](https://gimletmedia.com/undone/) - One season show about less known historical happenings.
-- [Dan Carlin’s hardcore history](http://www.dancarlin.com/hardcore-history-series/)
-- [Stuff you missed in history class](http://www.missedinhistory.com/)
-- [History of the world in 100 objects](http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads)
+---
 
-## Cryptocurrencies
-- [Cryptoverse](https://player.fm/series/the-cryptoverse)
-- [Blockchain Insider](http://bi.11fs.com/)
-- [Epicenter](https://epicenter.tv/)
-- [Crypto Voices](https://cryptovoices.com/)
-- [Unchained](http://unchainedpodcast.co/)
-- [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
+#### Contents
 
-## Machine Learning
-- [Talking machines](http://www.thetalkingmachines.com/)
-- [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
-- [Linear digressions](http://lineardigressions.com/)
-- [Practical AI](https://changelog.com/practicalai)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
-- [Linear Digressions](http://lineardigressions.com/)
-- [Data Skeptic](https://dataskeptic.com/)
+- [Apple](#apple)
+- [Cryptocurrencies](#cryptocurrencies)
+- [Economics](#economics)
+- [Everything](#everything)
+- [Functional programming](#functional-programming)
+- [Go](#go)
+- [History](#history)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Machine Learning](#machine-learning)
+- [Math](#math)
+- [Mindset](#mindset)
+- [News](#news)
+- [Politics](#politics)
+- [Programming](#programming)
+- [Python](#python)
+- [React](#react)
+- [Related](#related)
+- [Security](#security)
+- [Startups](#startups)
+- [Swift](#swift)
+- [Technology](#technology)
+- [Universe](#universe)
+- [Other](#other)
 
-## Startups
-- [The pitch](https://thepitch.fm/)
-- [Product people](http://www.productpeople.tv/)
-- [The freelancer](https://pjrvs.com/podcast/)
-- [Startup](https://gimletmedia.com/startup/)
-- [Founders Talk](https://changelog.com/founderstalk)
-
-## Go
-- [Go Time](https://changelog.com/gotime)
-
-## Python
-- [Talk Python To Me](https://talkpython.fm/)
-
-## JavaScript
-- [JS Party](https://changelog.com/jsparty)
-
-## React
-- [The React Podcast](https://changelog.com/reactpodcast)
-
-## Java
-- [Java Posse](http://javaposse.com/)
+---
 
 ## Apple
-- [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
+
 - [Mac power users](https://www.relay.fm/mpu)
+- [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
 
-## Functional programming
-- [Hansel minutes](https://hanselminutes.com/)
+## Cryptocurrencies
 
-## News
-- [The daily](https://www.nytimes.com/podcasts/the-daily) - Daily show covering what’s most important in the world on that day.
+- [Blockchain Insider](http://bi.11fs.com/)
+- [Crypto Voices](https://cryptovoices.com/)
+- [Cryptoverse](https://player.fm/series/the-cryptoverse)
+- [Epicenter](https://epicenter.tv/)
+- [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
+- [Unchained](http://unchainedpodcast.co/)
 
-## Security
-- [Security now](https://twit.tv/shows/security-now)
+## Economics
 
-## Politics
-- [NPR politics podcast](http://www.npr.org/podcasts/510310/npr-politics-podcast) - Covers the political headlines of the US.
-- [FiveThirtyEight](https://fivethirtyeight.com/tag/politics-podcast/) - Mostly news about politics , but from a more data driven approach.
-- [Pod save the world](https://art19.com/shows/pod-save-the-world) - More serious show about american foreign policy.
-- [Civics 101](http://www.npr.org/podcasts/512508710/civics-101)
-
-## Math
-- [Relatively prime](https://briankoberlein.com/podcasts/)
-
-## Mindset
-- [Hurry Slowly](http://hurryslowly.co/)
+- [Planet money](http://www.npr.org/sections/money/)
 
 ## Everything
+
 - [Hello Internet](http://www.hellointernet.fm)
 - [Partially examined life](https://partiallyexaminedlife.com/)
 - [Tim Ferriss show](http://tim.blog/podcast/)
 
-## Universe
-- [One universe at a time](https://briankoberlein.com/podcasts/)
+## Functional programming
 
-## Economics
-- [Planet money](http://www.npr.org/sections/money/)
+- [Hansel minutes](https://hanselminutes.com/)
+
+## Go
+
+- [Go Time](https://changelog.com/gotime)
+
+## History
+
+- [Dan Carlin’s hardcore history](http://www.dancarlin.com/hardcore-history-series/)
+- [History of the world in 100 objects](http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads)
+- [Stuff you missed in history class](http://www.missedinhistory.com/)
+- [Undone](https://gimletmedia.com/undone/) - One season show about less known historical happenings.
+
+## Java
+
+- [Java Posse](http://javaposse.com/)
+
+## JavaScript
+
+- [JS Party](https://changelog.com/jsparty)
+
+## Machine Learning
+
+- [Data Skeptic](https://dataskeptic.com/)
+- [Linear Digressions](http://lineardigressions.com/)
+- [Linear digressions](http://lineardigressions.com/)
+- [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
+- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Practical AI](https://changelog.com/practicalai)
+- [Talking machines](http://www.thetalkingmachines.com/)
+
+## Math
+
+- [Relatively prime](https://briankoberlein.com/podcasts/)
+
+## Mindset
+
+- [Hurry Slowly](http://hurryslowly.co/)
+
+## News
+
+- [The daily](https://www.nytimes.com/podcasts/the-daily) - Daily show covering what’s most important in the world on that day.
+
+## Politics
+
+- [Civics 101](http://www.npr.org/podcasts/512508710/civics-101)
+- [FiveThirtyEight](https://fivethirtyeight.com/tag/politics-podcast/) - Mostly news about politics , but from a more data driven approach.
+- [NPR politics podcast](http://www.npr.org/podcasts/510310/npr-politics-podcast) - Covers the political headlines of the US.
+- [Pod save the world](https://art19.com/shows/pod-save-the-world) - More serious show about american foreign policy.
 
 ## Programming
-- [Complete developer](http://completedeveloperpodcast.com/)
-- [Software engineering daily](https://softwareengineeringdaily.com/)
-- [Changelog](https://changelog.com/)
+
 - [.NET rocks](https://www.dotnetrocks.com/)
-- [Programming Throwdown](https://www.programmingthrowdown.com)
-- [Hanselminutes](http://hanselminutes.com/)
 - [All Things Git](https://www.allthingsgit.com/)
+- [Changelog](https://changelog.com/)
+- [Complete developer](http://completedeveloperpodcast.com/)
 - [FLOSS Weekly](http://twit.tv/show/floss-weekly)
+- [Hanselminutes](http://hanselminutes.com/)
+- [Programming Throwdown](https://www.programmingthrowdown.com)
+- [Software engineering daily](https://softwareengineeringdaily.com/)
 
-## Swift
-- [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
+## Python
 
-## Other
-- [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
-- [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
+- [Talk Python To Me](https://talkpython.fm/)
+
+## React
+
+- [The React Podcast](https://changelog.com/reactpodcast)
 
 ## Related
-- [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
+
 - [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
-- [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
+- [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
 - [Data Science Podcasts](https://www.reddit.com/r/datascience/wiki/podcasts)
+- [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
-## Contributing
-See [contribution guidelines](CONTRIBUTING.md#readme).
+## Security
 
-## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
+- [Security now](https://twit.tv/shows/security-now)
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+## Startups
+
+- [Founders Talk](https://changelog.com/founderstalk)
+- [Product people](http://www.productpeople.tv/)
+- [Startup](https://gimletmedia.com/startup/)
+- [The freelancer](https://pjrvs.com/podcast/)
+- [The pitch](https://thepitch.fm/)
+
+## Swift
+
+- [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
+
+## Technology
+
+- [Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
+- [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
+
+## Universe
+
+- [One universe at a time](https://briankoberlein.com/podcasts/)
+
+## Other
+
+- [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
+- [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
+
+---
+
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
