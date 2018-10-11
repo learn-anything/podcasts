@@ -142,11 +142,13 @@
 
 ## Startups
 
-- [Founders Talk](https://changelog.com/founderstalk)
+- [Founder Chats](https://founderchats.com/) - Baremetrics Founder, Josh Pigford, sits down with a different founder to talk shop.
+- [Founders Talk](https://changelog.com/founderstalk) - In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles.
 - [Product people](http://www.productpeople.tv/)
-- [Startup](https://gimletmedia.com/startup/)
+- [StartUp](https://gimletmedia.com/startup/) - A show about what it’s really like to start a business.
 - [The freelancer](https://pjrvs.com/podcast/)
-- [The pitch](https://thepitch.fm/)
+- [The Pitch](https://www.gimletmedia.com/the-pitch) - Where real entrepreneurs pitch to real investors—for real money.
+- [Without Fail](https://www.gimletmedia.com/without-fail) - Candid conversations with people who have done hard things: what worked, what didn't and why.
 
 ## Swift
 
