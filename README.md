@@ -25,6 +25,7 @@
 - [Python](#python)
 - [React](#react)
 - [Related](#related)
+- [Scripted Audio](#scripted-audio)
 - [Security](#security)
 - [Startups](#startups)
 - [Swift](#swift)
@@ -135,6 +136,10 @@
 - [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
 - [Data Science Podcasts](https://www.reddit.com/r/datascience/wiki/podcasts)
 - [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
+
+## Scripted Audio
+- [Gossip](https://www.gossippodcast.com/) - Three unlikely female friends meet each week to drink coffee and share the latest gossip floating around their not-so-traditional suburban town, Golden Acres.
+- [Homecoming](https://www.gimletmedia.com/homecoming) - A mystery about a caseworker and a soldier returning to civilian life.
 
 ## Security
 
