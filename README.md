@@ -54,8 +54,10 @@
 
 ## Everything
 
+- [99% Invisible](https://99percentinvisible.org/episodes/) - Design in the everyday world.
 - [Hello Internet](http://www.hellointernet.fm)
 - [Partially examined life](https://partiallyexaminedlife.com/)
+- [Science Vs](http://www.gimletmedia.com/science-vs) - Science Vs takes on fads, trends, and the opinionated mob to find out what’s fact, what’s not, and what’s somewhere in between.
 - [Tim Ferriss show](http://tim.blog/podcast/)
 
 ## Functional programming
