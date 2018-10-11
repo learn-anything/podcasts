@@ -36,8 +36,11 @@
 
 ## Apple
 
-- [Mac power users](https://www.relay.fm/mpu)
+- [Accidental Tech Podcast](http://atp.fm/) - "_A tech podcast we accidentally created while trying to do a car show._" Featuring Marco Arment, Casey Liss, and John Siracusa.
+- [Mac Power Users](https://www.relay.fm/mpu)
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
+- [The Talk Show](https://daringfireball.net/thetalkshow/) - John Gruber talks to people about Apple.
+- [Upgrade](https://www.relay.fm/upgrade) - Upgrade looks at how technology shapes our lives, from the devices in our hands and pockets to the streaming music and video services that keep us entertained.
 
 ## Cryptocurrencies
 
