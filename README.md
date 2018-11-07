@@ -24,7 +24,6 @@
 - [Programming](#programming)
 - [Python](#python)
 - [React](#react)
-- [Related](#related)
 - [Scripted Audio](#scripted-audio)
 - [Security](#security)
 - [Startups](#startups)
@@ -32,6 +31,7 @@
 - [Technology](#technology)
 - [Universe](#universe)
 - [Other](#other)
+- [Related](#related)
 
 ---
 
@@ -136,13 +136,6 @@
 
 - [The React Podcast](https://changelog.com/reactpodcast)
 
-## Related
-
-- [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
-- [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
-- [Data Science Podcasts](https://www.reddit.com/r/datascience/wiki/podcasts)
-- [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
-
 ## Scripted Audio
 - [Gossip](https://www.gossippodcast.com/) - Three unlikely female friends meet each week to drink coffee and share the latest gossip floating around their not-so-traditional suburban town, Golden Acres.
 - [Homecoming](https://www.gimletmedia.com/homecoming) - A mystery about a caseworker and a soldier returning to civilian life.
@@ -178,6 +171,13 @@
 
 - [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
 - [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
+
+## Related
+
+- [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
+- [Awesome podcasts](https://github.com/rShetty/awesome-podcasts#readme)
+- [Data Science Podcasts](https://www.reddit.com/r/datascience/wiki/podcasts)
+- [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
 ---
 
