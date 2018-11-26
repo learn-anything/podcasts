@@ -158,6 +158,11 @@
 ## Swift
 
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
+- [Fireside Swift](https://www.firesideswift.com/) - Popular Swift programming podcast where two buddies, Zack and Steve, discuss a new Swift topic each week.
+- [Swift over Coffee](https://anchor.fm/swiftovercoffee) - Helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
+- [Contravariance: A Swift podcast](https://contravariance.rocks/) - Podcast by Bas Broek and Benedikt Terhechte.
+- [iPhreaks](https://devchat.tv/iphreaks/)
+- [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) - 30-minute spin off of Swift Weekly Brief and other Swifty news.
 
 ## Technology
 
