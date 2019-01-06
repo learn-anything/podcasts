@@ -92,7 +92,6 @@
 
 - [Data Skeptic](https://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
-- [Linear digressions](http://lineardigressions.com/)
 - [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
 - [Practical AI](https://changelog.com/practicalai)
