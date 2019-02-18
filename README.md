@@ -30,6 +30,8 @@
 - [Swift](#swift)
 - [Technology](#technology)
 - [Universe](#universe)
+- [Rust](#rust)
+- [Haskell](#haskell)
 - [Other](#other)
 - [Related](#related)
 
@@ -87,6 +89,7 @@
 ## JavaScript
 
 - [JS Party](https://changelog.com/jsparty)
+- [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with your favorite developers.
 
 ## Machine Learning
 
@@ -96,10 +99,13 @@
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
 - [Practical AI](https://changelog.com/practicalai)
 - [Talking machines](http://www.thetalkingmachines.com/)
+- [This Week in Machine Learning](https://twimlai.com/)
 
 ## Math
 
 - [Relatively prime](https://briankoberlein.com/podcasts/)
+- [The Type Theory Podcast](http://typetheorypodcast.com/)
+- [Breaking Math](http://breakingmathpodcast.com/)
 
 ## Mindset
 
@@ -137,6 +143,7 @@
 - [The React Podcast](https://changelog.com/reactpodcast)
 
 ## Scripted Audio
+
 - [Gossip](https://www.gossippodcast.com/) - Three unlikely female friends meet each week to drink coffee and share the latest gossip floating around their not-so-traditional suburban town, Golden Acres.
 - [Homecoming](https://www.gimletmedia.com/homecoming) - A mystery about a caseworker and a soldier returning to civilian life.
 
@@ -153,6 +160,7 @@
 - [The freelancer](https://pjrvs.com/podcast/)
 - [The Pitch](https://www.gimletmedia.com/the-pitch) - Where real entrepreneurs pitch to real investors—for real money.
 - [Without Fail](https://www.gimletmedia.com/without-fail) - Candid conversations with people who have done hard things: what worked, what didn't and why.
+- [The Startup Chat](https://thestartupchat.com/) - Unfiltered insights and actionable advice straight from the trenches of startup and business life.
 
 ## Swift
 
@@ -172,10 +180,28 @@
 
 - [One universe at a time](https://briankoberlein.com/podcasts/)
 
+## Rust
+
+- [The Request for Explanation](https://request-for-explanation.github.io/podcast/) - Weekly discussion of Rust RFCs.
+- [New Rustacean](https://newrustacean.com/)
+
+## Haskell
+
+- [The Haskell Cast](http://www.haskellcast.com/)
+
 ## Other
 
 - [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
 - [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
+- [James Altucher Show](https://jamesaltucher.com/podcasts/)
+- [Reply All](https://www.gimletmedia.com/reply-all) - Podcast about the internet’ that is actually an unfailingly original exploration of modern life and how to survive it.
+- [Kevin Rose Show](https://www.kevinrose.com/)
+- [Automators](https://www.relay.fm/automators) - Automation for the people.
+- [The Changelog](https://overcast.fm/itunes341623264/the-changelog) - Conversations with the hackers, leaders, and innovators of software development.
+- [Egghead Developer Chats](https://egghead.io/podcasts) - Humans talking about the business of building software, constant learning, and balancing it with everyday life.
+- [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/) - Ongoing series of conversations bringing you right up to the cutting edge of Microsoft Research.
+- [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
+- [CPPCast](http://cppcast.com/) -
 
 ## Related
 
