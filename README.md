@@ -9,6 +9,7 @@
 
 - [Apple](#apple)
 - [Cryptocurrencies](#cryptocurrencies)
+- [Design](#design)
 - [Economics](#economics)
 - [Everything](#everything)
 - [Functional programming](#functional-programming)
@@ -53,6 +54,10 @@
 - [Epicenter](https://epicenter.tv/)
 - [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
 - [Unchained](http://unchainedpodcast.co/)
+
+## Design
+
+- [Design Details](https://overcast.fm/itunes947191070/design-details) - Weekly conversation about design process and culture.
 
 ## Economics
 
