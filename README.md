@@ -33,6 +33,7 @@
 - [Universe](#universe)
 - [Rust](#rust)
 - [Haskell](#haskell)
+- [Health](#health)
 - [Other](#other)
 - [Related](#related)
 
@@ -194,6 +195,10 @@
 ## Haskell
 
 - [The Haskell Cast](http://www.haskellcast.com/)
+
+## Health
+
+- [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
 
 ## Other
 
