@@ -201,7 +201,8 @@
 - [Egghead Developer Chats](https://egghead.io/podcasts) - Humans talking about the business of building software, constant learning, and balancing it with everyday life.
 - [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/) - Ongoing series of conversations bringing you right up to the cutting edge of Microsoft Research.
 - [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
-- [CPPCast](http://cppcast.com/) -
+- [CPPCast](http://cppcast.com/)
+- [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
 
 ## Related
 
