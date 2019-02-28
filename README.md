@@ -34,6 +34,7 @@
 - [Rust](#rust)
 - [Haskell](#haskell)
 - [Health](#health)
+- [Physics](#physics)
 - [Other](#other)
 - [Related](#related)
 
@@ -68,10 +69,10 @@
 ## Everything
 
 - [99% Invisible](https://99percentinvisible.org/episodes/) - Design in the everyday world.
-- [Hello Internet](http://www.hellointernet.fm)
+- [Hello Internet](http://www.hellointernet.fm) - CGP Grey and Brady Haran in Conversation.
 - [Partially examined life](https://partiallyexaminedlife.com/)
 - [Science Vs](http://www.gimletmedia.com/science-vs) - Science Vs takes on fads, trends, and the opinionated mob to find out what’s fact, what’s not, and what’s somewhere in between.
-- [Tim Ferriss show](http://tim.blog/podcast/)
+- [The Tim Ferriss Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) - Interesting interviews focused on life improvement.
 - [Hope in Open Source](https://hopeinsource.com/)
 
 ## Functional programming
@@ -95,6 +96,7 @@
 
 ## JavaScript
 
+- [The Undefined Podcast](https://overcast.fm/itunes1451541555/the-undefined-podcast) - The only engineering podcast with a 2 drink minimum.
 - [JS Party](https://changelog.com/jsparty)
 - [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with your favorite developers.
 
@@ -105,7 +107,7 @@
 - [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
 - [Practical AI](https://changelog.com/practicalai)
-- [Talking machines](http://www.thetalkingmachines.com/)
+- [Talking machines](https://overcast.fm/itunes955198749/talking-machines) - Human conversation about machine learning.
 - [This Week in Machine Learning](https://twimlai.com/)
 
 ## Math
@@ -171,7 +173,8 @@
 
 ## Swift
 
-- [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell)
+- [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell) - Answering your questions about Swift development.
+- [The Swift Community Podcast](https://overcast.fm/itunes1449664346/the-swift-community-podcast) - Podcast for the Swift Community, by the Swift Community.
 - [Fireside Swift](https://www.firesideswift.com/) - Popular Swift programming podcast where two buddies, Zack and Steve, discuss a new Swift topic each week.
 - [Swift over Coffee](https://anchor.fm/swiftovercoffee) - Helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
 - [Contravariance: A Swift podcast](https://contravariance.rocks/) - Podcast by Bas Broek and Benedikt Terhechte.
@@ -200,13 +203,20 @@
 
 - [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
 
+## Physics
+
+- [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
+
 ## Other
 
+- [Rationally Speaking](https://overcast.fm/itunes351953012/rationally-speaking) - Exploring the borderlands between reason and nonsense.
+- [The Knowledge Project with Shane Parrish](https://overcast.fm/itunes990149481/the-knowledge-project-with-shane-parrish) - Mastering the Best of What Other People Have Figured Out.
+- [Making Sense with Sam Harris](https://overcast.fm/itunes733163012/making-sense-with-sam-harris) - Neuroscientist, philosopher and best selling author.
 - [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
 - [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
 - [James Altucher Show](https://jamesaltucher.com/podcasts/)
 - [Reply All](https://www.gimletmedia.com/reply-all) - Podcast about the internet’ that is actually an unfailingly original exploration of modern life and how to survive it.
-- [Kevin Rose Show](https://www.kevinrose.com/)
+- [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
 - [Automators](https://www.relay.fm/automators) - Automation for the people.
 - [The Changelog](https://overcast.fm/itunes341623264/the-changelog) - Conversations with the hackers, leaders, and innovators of software development.
 - [Egghead Developer Chats](https://egghead.io/podcasts) - Humans talking about the business of building software, constant learning, and balancing it with everyday life.
