@@ -61,6 +61,7 @@
 
 ## Economics
 
+- [EconTalk](https://overcast.fm/itunes135066958/econtalk) - Economics Brought to Life, Library of Economics and Liberty.
 - [Planet money](http://www.npr.org/sections/money/)
 
 ## Everything
