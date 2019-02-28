@@ -173,7 +173,7 @@
 
 ## Technology
 
-- [Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
+- [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
 - [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
 
 ## Universe
