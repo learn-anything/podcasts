@@ -25,6 +25,7 @@
 - [Programming](#programming)
 - [Python](#python)
 - [React](#react)
+- [Kubernetes](#kubernetes)
 - [Scripted Audio](#scripted-audio)
 - [Security](#security)
 - [Startups](#startups)
@@ -150,6 +151,10 @@
 ## React
 
 - [The React Podcast](https://changelog.com/reactpodcast)
+
+## Kubernetes
+
+- [Kubernetes Podcast from Google](https://overcast.fm/itunes1370049232/kubernetes-podcast-from-google) - Weekly podcast focused on what’s happening in the Kubernetes community.
 
 ## Scripted Audio
 
