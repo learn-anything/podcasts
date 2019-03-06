@@ -229,6 +229,7 @@
 - [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
 - [CPPCast](http://cppcast.com/)
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
+- [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
 
 ## Related
 
