@@ -190,6 +190,7 @@
 
 - [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
 - [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
+- [The Diff: A Podcast from Facebook Open Source](https://overcast.fm/itunes1454407488/the-diff-a-podcast-from-facebook-open-source) - Showcases the program, the projects and the people that drives the team’s mission of building community through open source technology.
 
 ## Universe
 
@@ -207,6 +208,7 @@
 ## Health
 
 - [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
+- [Foodist with Darya Rose, Ph.D](https://overcast.fm/itunes1090954776/foodist-with-darya-rose-ph-d)
 
 ## Physics
 
@@ -230,6 +232,7 @@
 - [CPPCast](http://cppcast.com/)
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
 - [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
+- [Made You Think](https://overcast.fm/itunes1281256991/made-you-think) - Conversations that Stretch Your Brain Muscles.
 
 ## Related
 
