@@ -233,6 +233,7 @@
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
 - [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
 - [Made You Think](https://overcast.fm/itunes1281256991/made-you-think) - Conversations that Stretch Your Brain Muscles.
+- [Hidden Forces](https://overcast.fm/itunes1205359334/hidden-forces) - Exploring the hidden forces responsible for driving the most powerful changes we see in the world.
 
 ## Related
 
