@@ -36,6 +36,7 @@
 - [Haskell](#haskell)
 - [Health](#health)
 - [Physics](#physics)
+- [Blockchain](#blockchain)
 - [Other](#other)
 - [Related](#related)
 
@@ -43,7 +44,7 @@
 
 ## Apple
 
-- [Accidental Tech Podcast](http://atp.fm/) - "_A tech podcast we accidentally created while trying to do a car show._" Featuring Marco Arment, Casey Liss, and John Siracusa.
+- [Accidental Tech Podcast](https://overcast.fm/itunes617416468/accidental-tech-podcast) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 - [Mac Power Users](https://www.relay.fm/mpu)
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
 - [The Talk Show](https://daringfireball.net/thetalkshow/) - John Gruber talks to people about Apple.
@@ -175,6 +176,7 @@
 - [The Pitch](https://www.gimletmedia.com/the-pitch) - Where real entrepreneurs pitch to real investors—for real money.
 - [Without Fail](https://www.gimletmedia.com/without-fail) - Candid conversations with people who have done hard things: what worked, what didn't and why.
 - [The Startup Chat](https://thestartupchat.com/) - Unfiltered insights and actionable advice straight from the trenches of startup and business life.
+- [This Week in Startups](https://overcast.fm/itunes315114957/this-week-in-startups-audio) - Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of Web companies.
 
 ## Swift
 
@@ -191,6 +193,7 @@
 - [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
 - [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
 - [The Diff: A Podcast from Facebook Open Source](https://overcast.fm/itunes1454407488/the-diff-a-podcast-from-facebook-open-source) - Showcases the program, the projects and the people that drives the team’s mission of building community through open source technology.
+- [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
 
 ## Universe
 
@@ -213,6 +216,10 @@
 ## Physics
 
 - [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
+
+## Blockchain
+
+- [Zero Knowledge](https://overcast.fm/itunes1326503043/zero-knowledge) - Where we talk about blockchain technology and development.
 
 ## Other
 
