@@ -38,8 +38,6 @@
 - [Other](#other)
 - [Related](#related)
 
----
-
 ## Apple
 
 - [Accidental Tech Podcast](https://overcast.fm/itunes617416468/accidental-tech-podcast) - Three nerds discussing tech, Apple, programming, and loosely related matters.
