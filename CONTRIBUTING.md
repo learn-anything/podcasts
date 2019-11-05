@@ -11,8 +11,8 @@ Ensure your pull request adheres to following guidelines:
 - The podcast should be put into its appropriate category. Pick the one you think is closest if you are not sure.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
-- New categories or improvements to existing categorization are welcome.
 - Check your spelling and grammar.
+- New categories or improvements to existing categorization are welcome.
 - You can also add related links and repositories in the end.
 
 We welcome all [your suggestions](../../edit/master/README.md)!
