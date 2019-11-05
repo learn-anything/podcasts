@@ -28,9 +28,12 @@
 - [Technology](#technology)
 - [Universe](#universe)
 - [Rust](#rust)
+- [Elixir](#elixir)
 - [Haskell](#haskell)
+- [C++](#c++)
 - [Health](#health)
 - [Physics](#physics)
+- [Investing](#investing)
 - [Blockchain](#blockchain)
 - [Other](#other)
 - [Related](#related)
@@ -38,9 +41,9 @@
 ## Apple
 
 - [Accidental Tech Podcast](https://overcast.fm/itunes617416468/accidental-tech-podcast) - Three nerds discussing tech, Apple, programming, and loosely related matters.
-- [Mac Power Users](https://www.relay.fm/mpu)
-- [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
-- [The Talk Show](https://daringfireball.net/thetalkshow/) - John Gruber talks to people about Apple.
+- [Mac Power Users](https://overcast.fm/itunes458066753/mac-power-users) - Learn about getting the most from your Apple technology with focused topics and workflow guests.
+- [StackTrace](https://overcast.fm/itunes1359435443/stacktrace) - Apple news & rumors from a developer's perspective.
+- [The Talk Show](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber) - John Gruber talks to people about Apple.
 - [Upgrade](https://www.relay.fm/upgrade) - Upgrade looks at how technology shapes our lives, from the devices in our hands and pockets to the streaming music and video services that keep us entertained.
 
 ## Cryptocurrencies
@@ -63,12 +66,12 @@
 
 ## Everything
 
-- [99% Invisible](https://99percentinvisible.org/episodes/) - Design in the everyday world.
-- [Hello Internet](http://www.hellointernet.fm) - CGP Grey and Brady Haran in Conversation.
+- [99% Invisible](https://overcast.fm/itunes394775318/99-invisible) - Tiny radio show about design, architecture & the 99% invisible activity that shapes our world.
+- [Hello Internet](https://overcast.fm/itunes811377230/hello-internet) - CGP Grey and Brady Haran in Conversation.
 - [Partially examined life](https://partiallyexaminedlife.com/)
 - [Science Vs](http://www.gimletmedia.com/science-vs) - Science Vs takes on fads, trends, and the opinionated mob to find out what’s fact, what’s not, and what’s somewhere in between.
 - [The Tim Ferriss Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) - Interesting interviews focused on life improvement.
-- [Hope in Open Source](https://hopeinsource.com/)
+- [Hope in Source](https://overcast.fm/itunes1437677655/hope-in-source) - What are the parallels between faith and open source software?
 
 ## Functional programming
 
@@ -76,7 +79,7 @@
 
 ## Go
 
-- [Go Time](https://changelog.com/gotime)
+- [Go Time](https://overcast.fm/itunes1120964487/go-time) - Diverse panel and special guests discuss cloud infrastructure, distributed systems, microservices, Kubernetes, Docker…oh and also Go.
 
 ## History
 
@@ -93,7 +96,8 @@
 
 - [The Undefined Podcast](https://overcast.fm/itunes1451541555/the-undefined-podcast) - The only engineering podcast with a 2 drink minimum.
 - [JS Party](https://changelog.com/jsparty)
-- [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with your favorite developers.
+- [React Podcast](https://overcast.fm/itunes1341969432/react-podcast) - Conversations about React with your favorite developers.
+- [Chats with Kent C. Dodds](https://overcast.fm/itunes1475543959/chats-with-kent-c-dodds) - Kent C. Dodds chats with developers.
 
 ## Machine Learning
 
@@ -101,9 +105,10 @@
 - [Linear Digressions](http://lineardigressions.com/)
 - [Machine learning guide](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
-- [Practical AI](https://changelog.com/practicalai)
+- [Practical AI](https://overcast.fm/itunes1406537385/practical-ai) - Making artificial intelligence practical, productive, and accessible to everyone.
 - [Talking machines](https://overcast.fm/itunes955198749/talking-machines) - Human conversation about machine learning.
 - [This Week in Machine Learning](https://twimlai.com/)
+- [DeepMind: The Podcast](https://overcast.fm/itunes1476316441/deepmind-the-podcast) - Aims to give listeners an inside look at the fascinating world of AI research.
 
 ## Math
 
@@ -128,7 +133,6 @@
 
 ## Programming
 
-- [.NET rocks](https://www.dotnetrocks.com/)
 - [All Things Git](https://www.allthingsgit.com/)
 - [Changelog](https://changelog.com/)
 - [Complete developer](http://completedeveloperpodcast.com/)
@@ -136,7 +140,9 @@
 - [Hanselminutes](http://hanselminutes.com/)
 - [Programming Throwdown](https://www.programmingthrowdown.com)
 - [Software engineering daily](https://softwareengineeringdaily.com/)
+- [.NET rocks](https://www.dotnetrocks.com/)
 - [Under the Radar](https://www.relay.fm/radar) - From development and design to marketing and support for iOS (and macOS) developers.
+- [GraphQL Patterns](https://overcast.fm/itunes1437070363/graphql-patterns) - In depth discussions around everything GraphQL.
 
 ## Python
 
@@ -170,16 +176,17 @@
 - [Without Fail](https://www.gimletmedia.com/without-fail) - Candid conversations with people who have done hard things: what worked, what didn't and why.
 - [The Startup Chat](https://thestartupchat.com/) - Unfiltered insights and actionable advice straight from the trenches of startup and business life.
 - [This Week in Startups](https://overcast.fm/itunes315114957/this-week-in-startups-audio) - Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of Web companies.
+- [The Art of Product](https://overcast.fm/itunes1243627144/the-art-of-product) - Ben and Derrick chat weekly about building software companies.
 
 ## Swift
 
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell) - Answering your questions about Swift development.
 - [The Swift Community Podcast](https://overcast.fm/itunes1449664346/the-swift-community-podcast) - Podcast for the Swift Community, by the Swift Community.
-- [Fireside Swift](https://www.firesideswift.com/) - Popular Swift programming podcast where two buddies, Zack and Steve, discuss a new Swift topic each week.
-- [Swift over Coffee](https://anchor.fm/swiftovercoffee) - Helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
-- [Contravariance: A Swift podcast](https://contravariance.rocks/) - Podcast by Bas Broek and Benedikt Terhechte.
+- [Fireside Swift](https://overcast.fm/itunes1269435221/fireside-swift) - Popular Swift programming podcast where two buddies, Zack and Steve, discuss a new Swift topic each week.
+- [Swift over Coffee](https://overcast.fm/itunes1435076502/swift-over-coffee) - Helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
+- [Contravariance: A Swift podcast](https://overcast.fm/itunes1423771323/contravariance-a-swift-podcast) - Podcast by Bas Broek and Benedikt Terhechte.
 - [iPhreaks](https://devchat.tv/iphreaks/)
-- [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) - 30-minute spin off of Swift Weekly Brief and other Swifty news.
+- [Swift Unwrapped](https://overcast.fm/itunes1209817203/swift-unwrapped) - 30-minute spin off of Swift Weekly Brief and other Swifty news.
 
 ## Technology
 
@@ -187,6 +194,9 @@
 - [Ctrl-Walt-Delete](https://www.theverge.com/ctrl-walt-delete)
 - [The Diff: A Podcast from Facebook Open Source](https://overcast.fm/itunes1454407488/the-diff-a-podcast-from-facebook-open-source) - Showcases the program, the projects and the people that drives the team’s mission of building community through open source technology.
 - [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
+- [Function with Anil Dash](https://overcast.fm/itunes1439658455/function-with-anil-dash) - Podcast about how technology shapes culture and communication.
+- [Ladybug Podcast](https://overcast.fm/itunes1469229625/ladybug-podcast) - Three ladies debugging the tech industry.
+- [Maintainers Anonymous](https://overcast.fm/itunes1459347058/maintainers-anonymous) - How can we work together to achieve a common goal: whether in our code, cities, or infrastructure.
 
 ## Universe
 
@@ -197,9 +207,17 @@
 - [The Request for Explanation](https://request-for-explanation.github.io/podcast/) - Weekly discussion of Rust RFCs.
 - [New Rustacean](https://newrustacean.com/)
 
+## Elixir
+
+- [Elixir Talk](https://overcast.fm/itunes1298287048/elixir-talk) - Desmond Bowe and Chris Bell present.
+
 ## Haskell
 
 - [The Haskell Cast](http://www.haskellcast.com/)
+
+## C++
+
+- [cpp.chat](https://overcast.fm/itunes1378325120/cpp-chat) - Strong opinions, weekly held - with great guests from the C++ community.
 
 ## Health
 
@@ -209,6 +227,12 @@
 ## Physics
 
 - [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
+
+## Investing
+
+- [Masters in Business](https://overcast.fm/itunes730188152/masters-in-business) - Looks at the people and ideas that shape markets, investing and business.
+- [Spearhead](https://overcast.fm/itunes1412486606/spearhead) - Naval on angel investing.
+- [We Study Billionaires - The Investor’s Podcast Network](https://overcast.fm/itunes928933489/we-study-billionaires-the-investor-s-podcast-network) - We interview and study famous financial billionaires including Warren Buffett and Howard Marks, and teach you what we learn and how you can apply their investment strategies in the stock market.
 
 ## Blockchain
 
@@ -222,18 +246,27 @@
 - [Dat Cast](https://dat-cast.hashbase.io/) - Bret Comnes and Jim Pick.
 - [Day One Podcast](https://itunes.apple.com/us/podcast/the-day-one-podcast/id1366598938)
 - [James Altucher Show](https://jamesaltucher.com/podcasts/)
-- [Reply All](https://www.gimletmedia.com/reply-all) - Podcast about the internet’ that is actually an unfailingly original exploration of modern life and how to survive it.
+- [Reply All](https://overcast.fm/itunes941907967/reply-all) - Podcast about the internet’ that is actually an unfailingly original exploration of modern life and how to survive it.
 - [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
 - [Automators](https://www.relay.fm/automators) - Automation for the people.
 - [The Changelog](https://overcast.fm/itunes341623264/the-changelog) - Conversations with the hackers, leaders, and innovators of software development.
-- [Egghead Developer Chats](https://egghead.io/podcasts) - Humans talking about the business of building software, constant learning, and balancing it with everyday life.
+- [Egghead Developer Chats](https://overcast.fm/itunes1308497805/egghead-io-developer-chats) - Humans talking about the business of building software, constant learning, and balancing it with everyday life.
 - [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/) - Ongoing series of conversations bringing you right up to the cutting edge of Microsoft Research.
-- [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
+- [CoRecursive](https://overcast.fm/itunes1330329512/corecursive-software-engineering-interviews) - Learn from software development experts. Hosted by Adam Gordon Bell.
 - [CPPCast](http://cppcast.com/)
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
 - [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
 - [Made You Think](https://overcast.fm/itunes1281256991/made-you-think) - Conversations that Stretch Your Brain Muscles.
 - [Hidden Forces](https://overcast.fm/itunes1205359334/hidden-forces) - Exploring the hidden forces responsible for driving the most powerful changes we see in the world.
+- [How I Built This with Guy Raz](https://overcast.fm/itunes1150510297/how-i-built-this-with-guy-raz) - Guy Raz dives into the stories behind some of the world’s best known companies.
+- [HTTP 203](https://overcast.fm/itunes1042283903/http-203) - Where Surma and Jake occasionally talk web.
+- [Inside Remote](https://overcast.fm/itunes1475773111/inside-remote) - Dives deep into various topics of #remotework.
+- [The Joe Rogan Experience](https://overcast.fm/itunes360084272/the-joe-rogan-experience) - Joe Rogan’s Weekly Podcast.
+- [The Next Big Idea](https://overcast.fm/itunes1482067226/the-next-big-idea) - Each episode dives deep into one big idea through immersive storytelling, narration and curator interviews with the most interesting authors at work today.
+- [The Portal](https://overcast.fm/itunes1469999563/the-portal) - This podcast does something different. Hosted by Eric Weinstein.
+- [Quanta Science Podcast](https://overcast.fm/itunes1021340531/quanta-science-podcast) - In-depth news about mathematics, physics, biology and computer science.
+- [Reconcilable Differences](https://overcast.fm/itunes1001591287/reconcilable-differences) - John Siracusa and Merlin Mann try to figure out exactly how they got this way.
+- [Release Notes](https://overcast.fm/itunes650358643/release-notes) - The Business of Online Businesses.
 
 ## Related
 
