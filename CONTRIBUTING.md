@@ -7,7 +7,7 @@ Ensure your pull request adheres to following guidelines:
 - Search included podcasts before adding a new one, as yours may be a duplicate.
 - Only add podcasts you think are great! Feel welcome to remove entries that you think aren't great!
 - Use the following format: `<[Name](link) - Description.`
-- Where the link links to the podcast found on [Overcast](https://overcast.fm).
+- Where link links to the podcast found on [Overcast](https://overcast.fm).
 - The podcast should be put into appropriate category. Pick one you think is closest if you are not sure.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
