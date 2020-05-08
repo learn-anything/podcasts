@@ -248,6 +248,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Release Notes](https://overcast.fm/itunes650358643/release-notes) - The Business of Online Businesses.
 - [The Talk Show](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber) - Director’s commentary track for Daring Fireball.
 - [Hurry Slowly](https://overcast.fm/itunes1272852250/hurry-slowly)
+- [Dithering](https://daringfireball.net/2020/05/dithering)
 
 ## Related
 
