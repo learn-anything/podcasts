@@ -249,6 +249,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [The Talk Show](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber) - Director’s commentary track for Daring Fireball.
 - [Hurry Slowly](https://overcast.fm/itunes1272852250/hurry-slowly)
 - [Dithering](https://daringfireball.net/2020/05/dithering)
+- [Revision Path](https://overcast.fm/itunes834173190/revision-path) - Weekly showcase of Black designers, developers, and digital creatives from all over the world.
 
 ## Related
 
