@@ -78,6 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [History of the world in 100 objects](https://overcast.fm/itunes351096296/a-history-of-the-world-in-100-objects)
 - [Stuff you missed in history class](https://overcast.fm/itunes283605519/stuff-you-missed-in-history-class)
 - [Undone](https://overcast.fm/itunes1170956022/undone) - One season show about less known historical happenings.
+- [The History of Rome](https://overcast.fm/itunes261654474/the-history-of-rome) - Amazing narrator Mike Duncan goes through pretty much the entire history of Ancient Rome. 
 
 ## JavaScript
 
@@ -146,6 +147,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Security
 
 - [Security now](https://overcast.fm/itunes79016499/security-now-mp3)
+- [Darknet Diaries](https://overcast.fm/itunes1296350485/darknet-diaries) - The host Jack Rhysider tells true and thrilling stories about cybercrime.
 
 ## Startups
 
@@ -248,6 +250,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hurry Slowly](https://overcast.fm/itunes1272852250/hurry-slowly)
 - [Dithering](https://daringfireball.net/2020/05/dithering)
 - [Revision Path](https://overcast.fm/itunes834173190/revision-path) - Weekly showcase of Black designers, developers, and digital creatives from all over the world.
+- [The Happiness Lab with Dr. Laurie Santos](https://overcast.fm/itunes1474245040/the-happiness-lab-with-dr-laurie-santos) - Based on an extremely popular course at Yale, Dr. Laurie Santos explores what truly makes us happy. 
 
 ## Related
 
