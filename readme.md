@@ -256,7 +256,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [Awesome podcasts](https://github.com/rShetty/awesome-podcasts)
-- [Data Science Podcasts](https://www.reddit.com/r/datascience/wiki/podcasts)
+- [Data Science Podcasts](https://www.reddit.com/r/datascience/wiki/resources#wiki_podcasts)
 - [Map of all podcasts](http://www.muffin.works/podcastuniverse/)
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
