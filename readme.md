@@ -78,7 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [History of the world in 100 objects](https://overcast.fm/itunes351096296/a-history-of-the-world-in-100-objects)
 - [Stuff you missed in history class](https://overcast.fm/itunes283605519/stuff-you-missed-in-history-class)
 - [Undone](https://overcast.fm/itunes1170956022/undone) - One season show about less known historical happenings.
-- [The History of Rome](https://overcast.fm/itunes261654474/the-history-of-rome) - Amazing narrator Mike Duncan goes through pretty much the entire history of Ancient Rome. 
+- [The History of Rome](https://overcast.fm/itunes261654474/the-history-of-rome) - Amazing narrator Mike Duncan goes through pretty much the entire history of Ancient Rome.
 
 ## JavaScript
 
@@ -250,13 +250,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hurry Slowly](https://overcast.fm/itunes1272852250/hurry-slowly)
 - [Dithering](https://daringfireball.net/2020/05/dithering)
 - [Revision Path](https://overcast.fm/itunes834173190/revision-path) - Weekly showcase of Black designers, developers, and digital creatives from all over the world.
-<<<<<<< Updated upstream
-- [The Happiness Lab with Dr. Laurie Santos](https://overcast.fm/itunes1474245040/the-happiness-lab-with-dr-laurie-santos) - Based on an extremely popular course at Yale, Dr. Laurie Santos explores what truly makes us happy. 
-||||||| constructed merge base
-=======
+- [The Happiness Lab with Dr. Laurie Santos](https://overcast.fm/itunes1474245040/the-happiness-lab-with-dr-laurie-santos) - Based on an extremely popular course at Yale, Dr. Laurie Santos explores what truly makes us happy.
 - [Getting Simple](https://overcast.fm/itunes1319158020/getting-simple) - Podcast about how you can live a more meaningful, creative, and simple life. ([Web](https://gettingsimple.com/))
 - [Linear.fm](https://linear.app/fm) - Voices of the creators building with Linear.
->>>>>>> Stashed changes
 
 ## Related
 
