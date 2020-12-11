@@ -250,7 +250,13 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hurry Slowly](https://overcast.fm/itunes1272852250/hurry-slowly)
 - [Dithering](https://daringfireball.net/2020/05/dithering)
 - [Revision Path](https://overcast.fm/itunes834173190/revision-path) - Weekly showcase of Black designers, developers, and digital creatives from all over the world.
+<<<<<<< Updated upstream
 - [The Happiness Lab with Dr. Laurie Santos](https://overcast.fm/itunes1474245040/the-happiness-lab-with-dr-laurie-santos) - Based on an extremely popular course at Yale, Dr. Laurie Santos explores what truly makes us happy. 
+||||||| constructed merge base
+=======
+- [Getting Simple](https://overcast.fm/itunes1319158020/getting-simple) - Podcast about how you can live a more meaningful, creative, and simple life. ([Web](https://gettingsimple.com/))
+- [Linear.fm](https://linear.app/fm) - Voices of the creators building with Linear.
+>>>>>>> Stashed changes
 
 ## Related
 
