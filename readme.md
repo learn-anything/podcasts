@@ -90,6 +90,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Machine Learning
 
 - [Data Skeptic](https://overcast.fm/itunes890348705/data-skeptic)
+- [Deep Papers](https://overcast.fm/itunes1666375694/deep-papers)
 - [Linear Digressions](https://overcast.fm/itunes941219323/linear-digressions)
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
 - [Practical AI](https://overcast.fm/itunes1406537385/practical-ai) - Making artificial intelligence practical, productive, and accessible to everyone.
